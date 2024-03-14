@@ -1,0 +1,9 @@
+1. C Program to find sum of elements in a given array
+2. C program to find largest element in an array & second largest..
+3. C program to multiply two matrices 
+4. C/C++ Program for Majority Element 
+5. C/C++ Program for Find the Missing Number
+6. C/C++ Program for Write a program to reverse an array 
+7. C/C++ Program for Program for array rotation 
+8. C/C++ Program for leader element  
+ 
